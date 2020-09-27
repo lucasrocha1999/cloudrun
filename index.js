@@ -1,5 +1,4 @@
 // [START run_helloworld_service]
-require('dotenv/config');
 const express = require('express');
 const app = express();
 
